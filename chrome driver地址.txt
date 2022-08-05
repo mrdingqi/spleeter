@@ -1,0 +1,5 @@
+https://chromedriver.storage.googleapis.com/index.html
+
+豆瓣源
+pip install tornado -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+
